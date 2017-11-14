@@ -1,0 +1,3 @@
+put pytorch-template here, rename it to scripts
+put result into ./result
+put data into ./data
